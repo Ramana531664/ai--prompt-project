@@ -1,0 +1,65 @@
+Welcome to the Interactive Adventure Game!
+
+You wake up in a mysterious room with two doors. One is red, and the other is blue.
+- Red
+- Blue
+
+What will you do? (choose one): red
+
+The whispers grow louder. You see a shadow moving in the darkness.
+- Approach
+- Run
+
+What will you do? (choose one): run
+
+You stumble back into the room, but the red door has vanished!
+- Search
+- Wait
+
+What will you do? (choose one): search
+
+You search the room and find a hidden key under the rug.
+- Use_key
+- Ignore_key
+
+What will you do? (choose one): use_key
+
+You use the key to open a locked chest, finding mysterious artifacts inside.
+- Take_artifacts
+- Leave_artifacts
+
+What will you do? (choose one): take_atrifacts
+Invalid choice. Please try again.
+
+You use the key to open a locked chest, finding mysterious artifacts inside.
+- Take_artifacts
+- Leave_artifacts
+
+What will you do? (choose one): Take_artifacts
+
+You take the artifacts, feeling their magical power.
+- Use_power
+- Keep_safe
+
+What will you do? (choose one): Use_power
+
+You unleash the artifacts' power, altering reality itself!
+- Control
+- Surrender
+
+What will you do? (choose one): Surrender
+
+You surrender to the power, becoming part of the altered world forever.
+- Eternal_peace
+- Eternal_trap
+
+What will you do? (choose one): Eternal_trap
+
+You realize too late that you are trapped forever.
+- Escape
+- Accept
+
+What will you do? (choose one): Accept
+
+🎉 Congratulations! You've reached your goal!
+
